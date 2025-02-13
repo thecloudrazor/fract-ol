@@ -6,7 +6,7 @@
 /*   By: emgenc <emgenc@student.42istanbul.com.t    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/12 14:44:10 by emgenc            #+#    #+#             */
-/*   Updated: 2025/02/12 22:21:29 by emgenc           ###   ########.fr       */
+/*   Updated: 2025/02/13 02:56:08 by emgenc           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,18 +14,19 @@
 # define FRACTOL_H
 
 # include "minilibx-linux/mlx.h"
+# include <stdlib.h>
 
 typedef struct s_data
 {
 	void	*mlx;
-	void	*window;
+	void	*win;
 	void	*img;
 	char	*addr;
 	int		bpp;
-	int		line_len;
+	int		len;
 	int		endian;
 }			t_data;
 
-void	graceful_exit(t_data *data);
+int	graceful_exit(t_data *data);
 
 #endif
