@@ -19,6 +19,9 @@ Welcome to **fract-ol**, a computational project, through which the Mandelbrot a
 
 Fractals are recursive patterns that fold infinitely inward, and yet somehow map the infinite cosmos. A fractal is a mirror reflecting the elegance of chaos theory, the poetry of mathematics, and the algorithmic pulse of the natural order. They are self-similar, recursive patterns encoded deep into the bones of the cosmos and the universe.
 
+The term fractal was first used by mathematician Benoit Mandelbrot in 1974. He based it on the Latin word fractus which means "broken" or "fractured".  
+A fractal is an abstract mathematical object, such as a curve or a surface, whose pattern remains consistent at every scale.  
+
 In a world that is random and erratic, fractals are a glimpse of order. Each visualization generated here emerges from the recursive feedback loops of mathematical equations, iterated thousands of times. They converge toward a visual representation of mathematical truths, some of them probably still unknown to humanity.
 
 In this project, mathematics becomes the aesthetic. You are met with fluid visualizations which invite interpretation and contemplation. 
