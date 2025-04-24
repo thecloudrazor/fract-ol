@@ -15,7 +15,7 @@ And then there are those... who look into fractals.
 
 ## What is This?
 
-Welcome to **Fractol**, a computational project, through which the Mandelbrot and Julia sets unfold themselves. This project serves as a canvas, upon which those two fractals are rendered artistically. 
+Welcome to **fract-ol**, a computational project, through which the Mandelbrot and Julia sets unfold themselves. This project serves as a canvas, upon which those two fractals are rendered artistically. 
 
 Fractals are recursive patterns that fold infinitely inward, and yet somehow map the infinite cosmos. A fractal is a mirror reflecting the elegance of chaos theory, the poetry of mathematics, and the algorithmic pulse of the natural order. They are self-similar, recursive patterns encoded deep into the bones of the cosmos and the universe.
 
